@@ -25,6 +25,6 @@ public class Point {
         this.ordonne = ordonne;
     }
 
-    public int Norme(){
-    }
+    /*public int Norme(){
+    }*/
 }
